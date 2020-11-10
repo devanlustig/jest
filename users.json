@@ -1,0 +1,35 @@
+{
+    "users":[
+        {
+        "id":1,
+        "first_name": "Robert",
+        "last_name": "Schwatz",
+        "email": "rob23@gmail.com"
+    },
+
+    {
+        "id":2,
+        "first_name": "Lucy",
+        "last_name": "Bellmer",
+        "email": "lucy23@gmail.com"
+    },
+
+    
+    {
+        "id":3,
+        "first_name": "Anna",
+        "last_name": "Smith",
+        "email": "anna23@gmail.com"
+    },
+
+    
+    {
+        "id":4,
+        "first_name": "Roger",
+        "last_name": "Bacon",
+        "email": "roger23@gmail.com"
+    }
+
+    ]
+
+}
